@@ -1,2 +1,2 @@
-# Recipe-App-with-Fetch-API
+# Recipe App with Fetch API in <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  A program in which you select a category, based on this category, an API will be consulted and it will show all the recipes that match what is desired, as well as the instructions and ingredients. You can add to your favorites the recipe that you like the most.
